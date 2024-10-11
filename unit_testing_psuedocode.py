@@ -2,7 +2,7 @@ import unittest
 
 ## Unit Tests for psuedocode
 
-class TestFunction(unittest.TestCase);
+class TestFunction(unittest.TestCase):
     
     def y_starting(self):
         starting_y = 1
