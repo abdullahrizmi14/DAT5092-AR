@@ -2,7 +2,7 @@ import random
 
 
 N_min = 1
-N_max = 100
+N_max = 10
 
 N_rand = random.randint(N_min,N_max)
 
